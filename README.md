@@ -103,7 +103,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=codertheashish&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adarsh Bdsh&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
