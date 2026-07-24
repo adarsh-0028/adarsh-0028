@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋, I'm Adarsh
 
-<!--
-**adarsh-0028/adarsh-0028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
 
-Here are some ideas to get you started:
+🎓 IT Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning Python, Java & AI/ML
+🚀 Building Machine Learning Projects
+💡 Interested in Artificial Intelligence & Data Science
+📚 Always Learning New Technologies
+
+---
+
+## 🛠️ Skills
+
+- Python
+- Java
+- Git & GitHub
+- Machine Learning
+- HTML & CSS
+
+---
+
+## 🎯 Current Goal
+
+Become an AI/ML Engineer and build real-world AI applications.
+
+⭐ Thanks for visiting my profile!
+
