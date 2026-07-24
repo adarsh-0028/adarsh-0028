@@ -75,11 +75,11 @@
   <img src="https://img.shields.io/badge/🤖AI Resume Analyzer-0A66C2?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/codertheashish/Hand-Gesture-Recognition" target="_blank">
+<a href="https://github.com/adarsh-0028/Hand-Gesture-Recognition" target="_blank">
   <img src="https://img.shields.io/badge/🖐️Hand Gesture Recognition-FF1493?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/codertheashish/Emotion-Detection" target="_blank">
+<a href="https://github.com/adarsh-0028/Emotion-Detection" target="_blank">
   <img src="https://img.shields.io/badge/😊Emotion Detection-00C853?style=for-the-badge" />
 </a>
 
@@ -103,7 +103,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adarsh&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adarsh-00&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
