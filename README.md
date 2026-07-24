@@ -10,25 +10,25 @@
 
 <div style="line-height: 6.2;">
 
-Hey there! 👋 I'm **Adarsh Kumar**
+## 👨‍💻 *About Me*
 
-🎓 An **IT student** who loves exploring the world of **Technology, Coding & Artificial Intelligence**.
+*Hello! 👋 I'm **Adarsh Kumar**, an aspiring developer and an IT student who loves exploring the endless possibilities of technology.*
 
-💻 I enjoy building projects, solving problems, and learning new skills that help me grow as a developer.
+*💻 Passionate about **Coding, Artificial Intelligence 🤖, and Software Development 🚀**.*
 
-🚀 Currently exploring:
+*🌱 Currently learning and improving my skills in:*
 
-* 🐍 Python Programming
-* ☕ Java Development
-* 🤖 Artificial Intelligence & Generative AI
-* 🧠 Machine Learning Fundamentals
-* 📊 Data Structures & Algorithms
+* 🐍 *Python & Programming Concepts*
+* ☕ *Java Development*
+* 🤖 *Generative AI & Machine Learning*
+* 🧩 *Data Structures & Problem Solving*
 
-✨ I believe in continuous learning, creativity, and improving a little every day.
+*🚀 I enjoy creating projects, experimenting with new technologies, and turning ideas into meaningful solutions.*
 
-🌟 **Developer in progress | Tech enthusiast | Future problem solver** 🚀
+*🎯 My mission is to keep learning, keep building, and become a better developer every day.*
 
-*"Code. Learn. Build. Repeat. 💻🔥"*
+*✨ "Learning today, building tomorrow." 💡*
+
 
 </div>
 
