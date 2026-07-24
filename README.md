@@ -100,12 +100,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adarsh Bdsh&show_icons=true&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🔥 Most Used Languages
@@ -115,12 +109,6 @@
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adarsh-0028/adarsh-0028/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
 
 ---
 ## 🔥 GitHub Streak
