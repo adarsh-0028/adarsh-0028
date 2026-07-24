@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adarsh</h1>
+<h1 align="center">Hi 👋, I'm Adarsh Bdsh</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI%2FML+Enthusiast;Computer+Vision+Builder;App+Developer" />
@@ -71,28 +71,28 @@
 
 <p align="left">
 
-<a href="https://github.com/adarsh-0028/AI-Resume-Analyzer" target="_blank">
+<a href="https://github.com/codertheashish/AI-Resume-Analyzer" target="_blank">
   <img src="https://img.shields.io/badge/🤖AI Resume Analyzer-0A66C2?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/adarsh-0028/Hand-Gesture-Recognition" target="_blank">
+<a href="https://github.com/codertheashish/Hand-Gesture-Recognition" target="_blank">
   <img src="https://img.shields.io/badge/🖐️Hand Gesture Recognition-FF1493?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/adarsh-0028/Emotion-Detection" target="_blank">
+<a href="https://github.com/codertheashish/Emotion-Detection" target="_blank">
   <img src="https://img.shields.io/badge/😊Emotion Detection-00C853?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/adarsh-0028/Deepfake-Detection-Images" target="_blank">
+<a href="https://github.com/codertheashish/Deepfake-Detection-Images" target="_blank">
   <img src="https://img.shields.io/badge/🧮Deepfake Detection Images-FF8C00?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/adarsh-0028/Invisible-Cloth" target="_blank">
+<a href="https://github.com/codertheashish/Invisible-Cloth" target="_blank">
   <img src="https://img.shields.io/badge/👻 Invisible Cloth-6A5ACD?style=for-the-badge" />
 </a>
 
 </a>
-<a href="https://github.com/adarsh-0028?tab=repositories" target="_blank">
+<a href="https://github.com/codertheashish?tab=repositories" target="_blank">
   <img src="https://img.shields.io/badge/➕ Show More Repos-333333?style=for-the-badge" />
 </a>
 
@@ -103,7 +103,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adarsh-00&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=codertheashish&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -111,7 +111,7 @@
 ## 🔥 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adarsh-0028&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codertheashish&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -119,14 +119,14 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codertheashish/adarsh-0028/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/adarsh-0028/adarsh-0028/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=adarsh-0028&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=codertheashish&theme=tokyonight&hide_border=true" />
 </p>
 
 ----
@@ -135,22 +135,22 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/adarshlinke" target="_blank">
+<a href="https://www.linkedin.com/in/ashish-kumar-prajapati-3b6858301" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin"
        title="LinkedIn - Connect with me professionally" />
 </a>
 
-<a href="https://github.com/adarsh-0028" target="_blank">
+<a href="https://github.com/codertheashish" target="_blank">
   <img src="https://skillicons.dev/icons?i=github"
        title="GitHub - Check out my projects and repositories" />
 </a>
 
-<a href="https://instagram.com/adarsh_0028" target="_blank">
+<a href="https://instagram.com/codertheashish" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram"
        title="Instagram - Follow my journey" />
 </a>
 
-<a href="mailto:adarshbdsh@gmail.com" target="_blank">
+<a href="mailto:codertheashish@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail"
        title="Gmail - Contact me via email" />
 </a>
