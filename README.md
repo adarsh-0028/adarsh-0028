@@ -10,15 +10,25 @@
 
 <div style="line-height: 6.2;">
 
-🎓 Diploma IT (AI/ML) Student<br>
-🐍 Skilled in Python Development<br>
-🤖 Exploring AI, Machine Learning & Data Science<br>
-🚀 Building real-world projects and improving every day<br>
-💡 Passionate about technology and problem solving<br>
-🔭 Currently working on AI & Computer Vision projects<br>
-🌱 Learning Deep Learning, TensorFlow & Open Source<br>
-👨‍💻 Building Python, Web Development and AI-based applications<br>
-🌐 Active on GitHub, contributing to open-source projects<br>
+Hey there! 👋 I'm **Adarsh Kumar**
+
+🎓 An **IT student** who loves exploring the world of **Technology, Coding & Artificial Intelligence**.
+
+💻 I enjoy building projects, solving problems, and learning new skills that help me grow as a developer.
+
+🚀 Currently exploring:
+
+* 🐍 Python Programming
+* ☕ Java Development
+* 🤖 Artificial Intelligence & Generative AI
+* 🧠 Machine Learning Fundamentals
+* 📊 Data Structures & Algorithms
+
+✨ I believe in continuous learning, creativity, and improving a little every day.
+
+🌟 **Developer in progress | Tech enthusiast | Future problem solver** 🚀
+
+*"Code. Learn. Build. Repeat. 💻🔥"*
 
 </div>
 
